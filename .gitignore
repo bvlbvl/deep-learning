@@ -10,7 +10,9 @@ face_generation/data/
 
 *.pyc
 *.p
-*.pkl 
+*.pkl
+*.zip
+*.pickle
 
 */.floyd*
 
