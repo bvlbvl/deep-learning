@@ -13,6 +13,9 @@ face_generation/data/
 *.pkl
 *.zip
 *.pickle
+*.gz
+image-classification/cifar-10-batches-py/*
+
 
 */.floyd*
 
